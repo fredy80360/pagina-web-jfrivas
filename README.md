@@ -11,12 +11,10 @@
 
 ## 📸 Vista Previa
 
-El sitio está diseñado bajo la filosofía *Mobile First*, asegurando una experiencia óptima en cualquier resolución:
+El sitio está diseñado bajo la filosofía _Mobile First_, asegurando una experiencia óptima en cualquier resolución:
 
-* **Desktop:** Navegación limpia con efectos de scroll inteligente.
-* **Mobile:** Menú lateral animado mediante transiciones circulares de `clip-path`.
-
-
+- **Desktop:** Navegación limpia con efectos de scroll inteligente.
+- **Mobile:** Menú lateral animado mediante transiciones circulares de `clip-path`.
 
 ---
 
@@ -24,14 +22,14 @@ El sitio está diseñado bajo la filosofía *Mobile First*, asegurando una exper
 
 Para este proyecto se emplearon las tecnologías fundamentales de la web moderna, priorizando el rendimiento y la accesibilidad:
 
-* **HTML5 Semántico:** Para una estructura lógica y optimización en motores de búsqueda (SEO).
-* **CSS3 Avanzado:** * Uso de **Flexbox** para layouts dinámicos.
-    * **Media Queries** para adaptabilidad total.
-    * Animaciones personalizadas y efectos de transición suaves.
-* **JavaScript (Vanilla ES6+):** * **Sticky Navbar:** Lógica de detección de scroll para ocultar/mostrar el menú.
-    * **DOM Manipulation:** Gestión del estado del menú de hamburguesa.
-* **Recursos Externos:** * Iconografía de **FontAwesome**.
-    * Tipografía **Roboto** vía Google Fonts.
+- **HTML5 Semántico:** Para una estructura lógica y optimización en motores de búsqueda (SEO).
+- **CSS3 Avanzado:** \* Uso de **Flexbox** para layouts dinámicos.
+  - **Media Queries** para adaptabilidad total.
+  - Animaciones personalizadas y efectos de transición suaves.
+- **JavaScript (Vanilla ES6+):** \* **Sticky Navbar:** Lógica de detección de scroll para ocultar/mostrar el menú.
+  - **DOM Manipulation:** Gestión del estado del menú de hamburguesa.
+- **Recursos Externos:** \* Iconografía de **FontAwesome**.
+  - Tipografía **Roboto** vía Google Fonts.
 
 ---
 
@@ -49,3 +47,4 @@ pagina-web-JFrivas/
 │   ├── night-calls_.svg
 │   └── wait-in-line.svg
 └── index.html           # Estructura principal del sitio
+```
